@@ -1,5 +1,7 @@
 # QuadX_2560GY86_PIDAutoCHN_V7
 
+![](https://cloud.githubusercontent.com/assets/9403558/5894707/72734434-a53e-11e4-9152-d86ab0c2d0bc.jpg)
+![](https://cloud.githubusercontent.com/assets/9403558/5894709/81c26596-a53e-11e4-8eda-188f70940c84.jpg)
 ![](https://cloud.githubusercontent.com/assets/9403558/5851227/60b83d90-a236-11e4-82c5-efd6538aba85.jpg)
 
 /*
