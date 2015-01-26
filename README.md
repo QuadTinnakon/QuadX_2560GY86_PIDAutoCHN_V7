@@ -1,4 +1,7 @@
 # QuadX_2560GY86_PIDAutoCHN_V7
+
+![](https://cloud.githubusercontent.com/assets/9403558/5851227/60b83d90-a236-11e4-82c5-efd6538aba85.jpg)
+
 /*
 project_QuadX_2560 GY86_PIDAuto_V5 
 
