@@ -1,4 +1,5 @@
 # QuadX_2560GY86_PIDAutoCHN_V7
+หนังสือเขียนโปรแกรมเครื่องบินสี่ใบพัด การเขียนโปรแกรม Quadrotor พื้นฐาน ,การบินอากาศยาน 4 ใบพัด ,โดรน drone  ,โดรนคอร์ดคอปเตอร์ Drone QuadCopter ,อากาศยานไร้คนขับ
 # ดูหน้าเวป http://quad3d-tin.lnwshop.com/category/13/quadrotor_develop_auto
 
 ![](https://cloud.githubusercontent.com/assets/9403558/5894707/72734434-a53e-11e4-9152-d86ab0c2d0bc.jpg)
