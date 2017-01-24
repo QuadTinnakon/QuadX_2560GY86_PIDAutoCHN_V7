@@ -27,8 +27,8 @@ float pitch = 0.0;
 float Distance = 0.0;
 #define ToRad 0.01745329252  // *pi/180
 #define ToDeg 57.2957795131  // *180/pi
-//prog_char
-prog_char UBLOX_INIT[] PROGMEM = { // PROGMEM array must be outside any function !!!
+//prog_char  const char
+const char UBLOX_INIT[] PROGMEM = { // PROGMEM array must be outside any function !!!
      0xB5,0x62,0x06,0x01,0x03,0x00,0xF0,0x05,0x00,0xFF,0x19,                //disable all default NMEA messages
      0xB5,0x62,0x06,0x01,0x03,0x00,0xF0,0x03,0x00,0xFD,0x15, //0x06 Configuration Input Messages: Set Dynamic Model, Set DOP Mask, Set Baud Rate, etc.
      0xB5,0x62,0x06,0x01,0x03,0x00,0xF0,0x01,0x00,0xFB,0x11,
